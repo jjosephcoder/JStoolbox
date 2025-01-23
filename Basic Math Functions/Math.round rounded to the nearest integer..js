@@ -1,0 +1,1 @@
+Math.round rounded to the nearest integer.
